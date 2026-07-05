@@ -1,159 +1,172 @@
-# ¡Hola! Soy Sebastián Kener 👋
+<h1 align="center">Hi 👋, I'm Sebastián Kener</h1>
 
-🎓 Técnico Universitario en Programación por la Universidad Nacional de Hurlingham (UNAHUR).
+<h3 align="center">
+Software Development Student • Backend Developer • Automation Enthusiast
+</h3>
 
-Soy desarrollador trainee–junior con interés en el desarrollo de software, automatización de procesos y tecnologías orientadas a la mejora de la educación y la gestión.
-
-Actualmente continúo ampliando mis conocimientos mediante proyectos personales, académicos y colaborativos, buscando crear soluciones útiles y adquirir experiencia profesional en el desarrollo de aplicaciones.
-
----
-
-# 💼 Experiencia
-
-### 🏛️ Instituto Nacional de Tecnología Industrial (INTI)
-
-**Pasantía en Desarrollo y Automatización**
-
-Participé en el desarrollo de una aplicación para la gestión de calibraciones de equipos de laboratorio, implementando automatizaciones con Microsoft Power Platform para optimizar procesos internos y reducir tareas manuales.
-
-Principales tareas:
-
-- Desarrollo de flujos automáticos con Power Automate.
-- Desarrollo de aplicaciones con Power Apps.
-- Automatización de notificaciones por correo electrónico.
-- Análisis de requerimientos.
-- Testing y mejora de procesos.
+<p align="center">
+I'm passionate about building software that solves real-world problems through automation, backend development, and technology.
+</p>
 
 ---
 
-### 🎓 Universidad Nacional de Hurlingham
+## 👨‍💻 About Me
 
-**Estudiante Asistente**
+🎓 Software Development student at **Universidad Nacional de Hurlingham (UNAHUR)**.
 
-Colaboré como estudiante asistente en distintas asignaturas de programación, participando en actividades de apoyo académico, corrección de evaluaciones y desarrollo de proyectos institucionales.
+💼 I completed a professional internship at **INTI**, where I designed and developed an automated calibration alert system for laboratory equipment using Microsoft Power Platform.
 
----
+🚀 I have participated in university innovation projects, including **+TEC UNAHUR**, contributing to backend development, REST APIs, CRUD modules, data migration, software testing and usability improvements.
 
-# 🚀 Proyectos Destacados
+👨‍🏫 I currently work as a **Student Assistant**, helping develop digital tools that improve the organization and management of academic activities.
 
-## 🚨 Sistema de Alertas de Calibraciones (INTI)
-
-Sistema desarrollado durante mi pasantía en el INTI para automatizar el seguimiento de calibraciones de equipos de laboratorio mediante notificaciones automáticas por correo electrónico.
-
-Tecnologías:
-
-- Microsoft Power Apps
-- Microsoft Power Automate
-- Excel
-- Outlook
+💡 I enjoy transforming ideas into useful software, learning new technologies, and continuously improving my development skills.
 
 ---
 
-## 🎓 Plataforma Educativa +TEC UNAHUR
+# 🚀 Featured Projects
 
-Proyecto institucional financiado por +TEC destinado al desarrollo de una plataforma educativa para la gestión de actividades, evaluaciones y proyectos de programación.
+### 🔬 Calibration Alert System – INTI
 
-Mi participación estuvo enfocada en:
+Designed and developed an automated notification system that replaced manual spreadsheet monitoring for laboratory equipment calibrations.
 
-- Desarrollo Backend.
-- APIs REST.
-- Operaciones CRUD.
-- Testing.
-- Mejoras de experiencia de usuario.
+**Highlights**
 
----
-
-## 📋 Espacio de Organización para Estudiantes Asistentes
-
-Aplicación web orientada a centralizar la organización del trabajo de estudiantes asistentes de la UNAHUR.
-
-Funciones principales:
-
-- Gestión de estudiantes asistentes.
-- Organización de comisiones.
-- Calendario.
-- Seguimiento de tareas.
-- Materiales.
-- Notificaciones.
-
-Tecnologías:
-
-- React
-- Node.js
-- Tailwind CSS
+- Automated email notifications (30, 15 and 7 days before expiration)
+- Microsoft Power Automate workflows
+- Power Apps interface
+- Process automation
+- Reduced manual work and risk of missed calibrations
 
 ---
 
-## ⚓ Batalla Naval
+### 🎓 +TEC UNAHUR Platform
 
-Trabajo final desarrollado en lenguaje C para la carrera Ingeniería Electrónica de la Universidad Nacional de Moreno.
+Backend developer in an educational innovation project funded by UNAHUR.
 
-Implementa una versión completa del clásico juego Batalla Naval con comunicación entre dos computadoras mediante sockets.
+**Contributions**
 
----
-
-# 🛠 Tecnologías
-
-## Lenguajes
-
-- JavaScript
-- Python
-- SQL
-- C
-- Kotlin
-
-## Desarrollo Web
-
-- HTML
-- CSS
-- React
-- Node.js
-- APIs REST
-
-## Bases de Datos
-
-- MySQL
-- MariaDB
-- PostgreSQL
-
-## Automatización
-
-- Microsoft Power Apps
-- Microsoft Power Automate
-- SharePoint
-
-## Herramientas
-
-- Git
-- GitHub
-- Visual Studio Code
+- REST API development
+- CRUD modules
+- Database operations
+- Data migration
+- Software testing
+- UX improvement proposals
 
 ---
 
-# 📚 Publicaciones
+### 📚 Student Assistant Management Platform
 
-📄 Autor de artículos académicos relacionados con tecnología y educación.
+Academic platform developed to centralize information for professors and student assistants.
+
+Features include:
+
+- Student management
+- Tutoring assignments
+- Academic schedules
+- Calendar
+- Educational resources
+- Task tracking
+- Notifications
+
+Built with React, Node.js and Tailwind CSS.
 
 ---
 
-# 🌱 Actualmente
+### ⚓ Multiplayer Battleship
 
-Estoy trabajando en:
+Final project for Computer Science I.
 
-- Mejoras de mi portfolio profesional.
-- Nuevos proyectos personales.
-- Formación continua en desarrollo de software.
-- Construcción de un perfil profesional sólido para incorporarme al sector IT.
+Implementation of a multiplayer Battleship game in C, including communication between computers and synchronization of game logic.
 
 ---
 
-# 📫 Contacto
+## 💻 Tech Stack
 
-💼 LinkedIn:
-www.linkedin.com/in/sebakener
+### Programming Languages
 
-🌐 Portfolio:
-https://stkener.github.io/portfolio_sebastian/
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-📧 Email:
-stkener@gmail.com
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+
+---
+
+# 🌱 Currently Learning
+
+- Software Engineering
+- Backend Architecture
+- REST APIs
+- Cybersecurity
+- Computer Networks
+- Cloud Technologies
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=stkener&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stkener&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stkener&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/stkener/stkener/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+- 🌐 Portfolio: **https://stkener.github.io/portfolio_sebastian/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/sebakener/**
+- 📧 Email: **stkener@gmail.com**
+---
+
+<p align="center">
+
+<i>"Technology is most valuable when it solves real problems."</i>
+
+</p>
