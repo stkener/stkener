@@ -141,12 +141,6 @@ Implementation of a multiplayer Battleship game in C, including communication be
 </p>
 
 ---
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/stkener/stkener/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</p>
----
 
 # 📫 Let's Connect
 
