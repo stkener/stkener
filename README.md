@@ -81,14 +81,15 @@ Implementation of a multiplayer Battleship game in C, including communication be
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Frontend
 
@@ -106,23 +107,28 @@ Implementation of a multiplayer Battleship game in C, including communication be
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Automation
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge)
 
 ---
 
 # 🌱 Currently Learning
 
 - Software Engineering
-- Backend Architecture
-- REST APIs
-- Cybersecurity
-- Computer Networks
-- Cloud Technologies
+- Backend Development with Node.js & Express
+- React
+- REST API Design
+- Software Architecture
+- Design Patterns and Clean Code
 
 ---
 
@@ -163,6 +169,7 @@ Implementation of a multiplayer Battleship game in C, including communication be
 - 🌐 Portfolio: **https://stkener.github.io/portfolio_sebastian/**
 - 💼 LinkedIn: **https://www.linkedin.com/in/sebakener/**
 - 📧 Email: **stkener@gmail.com**
+
 ---
 
 <p align="center">
