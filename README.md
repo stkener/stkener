@@ -1,26 +1,39 @@
 <h1 align="center">Hi 👋, I'm Sebastián Kener</h1>
 
 <h3 align="center">
-Software Development Student • Backend Developer • Automation Enthusiast
+Technical University Programmer • Junior Software Developer • Automation & Educational Technology
 </h3>
 
 <p align="center">
-I'm passionate about building software that solves real-world problems through automation, backend development, and technology.
+I develop software that improves processes, simplifies everyday work, and helps organizations operate more efficiently through automation, information systems, and technology.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Software Development student at **Universidad Nacional de Hurlingham (UNAHUR)**.
+🎓 Technical University Programmer and Bachelor's Degree student in Computer Science at **Universidad Nacional de Hurlingham (UNAHUR)**.
 
 💼 I completed a professional internship at **INTI**, where I designed and developed an automated calibration alert system for laboratory equipment using Microsoft Power Platform.
 
-🚀 I have participated in university innovation projects, including **+TEC UNAHUR**, contributing to backend development, REST APIs, CRUD modules, data migration, software testing and usability improvements.
+🚀 I have participated in university innovation projects, including **+TEC UNAHUR**, contributing to backend development, REST APIs, CRUD modules, data migration, software testing, and usability improvements.
 
 👨‍🏫 I currently work as a **Student Assistant**, helping develop digital tools that improve the organization and management of academic activities.
 
-💡 I enjoy transforming ideas into useful software, learning new technologies, and continuously improving my development skills.
+📝 I am also interested in technical writing and academic dissemination. I recently authored a software-related academic article and plan to continue contributing through future publications.
+
+💡 I enjoy identifying opportunities for improvement and transforming ideas into practical software solutions. My main interests include software development, process automation, educational technology, and institutional digital transformation.
+
+---
+
+# 🎯 Professional Interests
+
+- Software Development
+- Process Automation
+- Educational Technology
+- Institutional Digital Solutions
+- Information Systems
+- Technical Writing & Continuous Learning
 
 ---
 
@@ -59,7 +72,7 @@ Backend developer in an educational innovation project funded by UNAHUR.
 
 Academic platform developed to centralize information for professors and student assistants.
 
-Features include:
+**Features**
 
 - Student management
 - Tutoring assignments
@@ -69,15 +82,22 @@ Features include:
 - Task tracking
 - Notifications
 
-Built with React, Node.js and Tailwind CSS.
+Built with **React**, **Node.js**, and **Tailwind CSS**.
 
 ---
 
-### ⚓ Multiplayer Battleship
+### 💰 Mercado Libre & Mercado Pago Calculator
 
-Final project for Computer Science I.
+A web application that helps sellers estimate commissions, fees, and profits when selling through Mercado Libre and Mercado Pago.
 
-Implementation of a multiplayer Battleship game in C, including communication between computers and synchronization of game logic.
+**Highlights**
+
+- Commission calculator
+- Shipping estimation
+- SEO-oriented content
+- Google Analytics integration
+- Financial resources
+- Responsive design
 
 ---
 
@@ -96,6 +116,7 @@ Implementation of a multiplayer Battleship game in C, including communication be
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
@@ -106,6 +127,9 @@ Implementation of a multiplayer Battleship game in C, including communication be
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Automation
 
@@ -117,18 +141,20 @@ Implementation of a multiplayer Battleship game in C, including communication be
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge)
 
 ---
 
 # 🌱 Currently Learning
 
-- Software Engineering
-- Backend Development with Node.js & Express
-- React
-- REST API Design
 - Software Architecture
-- Design Patterns and Clean Code
+- Design Patterns
+- Backend Development
+- Cybersecurity Fundamentals
+- Process Automation
+- Technical Writing and Scientific Publications
 
 ---
 
