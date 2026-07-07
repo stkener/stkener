@@ -129,7 +129,6 @@ A web application that helps sellers estimate commissions, fees, and profits whe
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Automation
 
@@ -142,19 +141,7 @@ A web application that helps sellers estimate commissions, fees, and profits whe
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge)
-
----
-
-# 🌱 Currently Learning
-
-- Software Architecture
-- Design Patterns
-- Backend Development
-- Cybersecurity Fundamentals
-- Process Automation
-- Technical Writing and Scientific Publications
 
 ---
 
